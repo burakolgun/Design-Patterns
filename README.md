@@ -1,3 +1,3 @@
 # Design-Patterns
 
-# Strategy Pattern
+<h2> Strategy Pattern </h2>
