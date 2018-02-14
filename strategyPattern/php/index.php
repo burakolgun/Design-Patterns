@@ -1,4 +1,4 @@
-<?php
+<?php 
 include './Animal.php';
 include './ItFlys.php';
 include './CantFlys.php';
