@@ -1,0 +1,11 @@
+C:\Projects\Design-Patterns\Creational\factory\factory\obj\Debug\netcoreapp2.2\factory.csprojAssemblyReference.cache
+C:\Projects\Design-Patterns\Creational\factory\factory\obj\Debug\netcoreapp2.2\factory.csproj.CoreCompileInputs.cache
+C:\Projects\Design-Patterns\Creational\factory\factory\obj\Debug\netcoreapp2.2\factory.AssemblyInfoInputs.cache
+C:\Projects\Design-Patterns\Creational\factory\factory\obj\Debug\netcoreapp2.2\factory.AssemblyInfo.cs
+C:\Projects\Design-Patterns\Creational\factory\factory\bin\Debug\netcoreapp2.2\factory.deps.json
+C:\Projects\Design-Patterns\Creational\factory\factory\bin\Debug\netcoreapp2.2\factory.runtimeconfig.json
+C:\Projects\Design-Patterns\Creational\factory\factory\bin\Debug\netcoreapp2.2\factory.runtimeconfig.dev.json
+C:\Projects\Design-Patterns\Creational\factory\factory\bin\Debug\netcoreapp2.2\factory.dll
+C:\Projects\Design-Patterns\Creational\factory\factory\bin\Debug\netcoreapp2.2\factory.pdb
+C:\Projects\Design-Patterns\Creational\factory\factory\obj\Debug\netcoreapp2.2\factory.dll
+C:\Projects\Design-Patterns\Creational\factory\factory\obj\Debug\netcoreapp2.2\factory.pdb
