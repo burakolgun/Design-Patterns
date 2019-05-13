@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommandPatternSample.Business\CommandPatternSample.Business.csproj" />
+    <ProjectReference Include="..\CommandPatternSample.Data\CommandPatternSample.Data.csproj" />
+  </ItemGroup>
+
+</Project>
