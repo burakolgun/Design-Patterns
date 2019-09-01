@@ -8,13 +8,13 @@ namespace example01.Mediator
 
         private readonly ConcreteMediator _powerController;
 
-        private MediatorHelper()
+        private MediatorHelper()jjj
         {
             _powerController =
                 new ConcreteMediator(new Fan.Fan(), new PowerSupplier("power supplier"));
         }
 
-        public static Mediator GetController()
+        public static Mediator GetController()§1
         {
             if (_mediatorHelper == null)
             {
